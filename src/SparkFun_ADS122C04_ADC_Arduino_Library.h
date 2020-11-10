@@ -78,7 +78,7 @@
 #define ADS122C04_3WIRE_HI_TEMP      0x6
 #define ADS122C04_2WIRE_HI_TEMP      0x7
 
-// ADS122C04 Table 17 in Datasheet
+// ADS122C04 Table 16 in Datasheet
 #define ADS122C04_RESET_CMD          0x06     //0000 011x      Reset
 #define ADS122C04_START_CMD          0x08     //0000 100x      Start/Sync
 #define ADS122C04_POWERDOWN_CMD      0x02     //0000 001x      PowerDown
